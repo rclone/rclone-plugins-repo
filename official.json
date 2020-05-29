@@ -1,0 +1,11 @@
+{
+    "plugins": {
+        "rclone/video-player" : {
+            "name" : "Video Player",
+            "description": "Hello World",
+            "longDescription": "Hello world, how are you",
+            "icon": "",
+            "url": ""
+        }
+    }
+}
