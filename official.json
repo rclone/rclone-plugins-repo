@@ -17,6 +17,15 @@
             "icon": "",
             "repo": "https://github.com/negative0/rclone-terminal/",
             "bugs": "https://github.com/negative0/rclone-terminal/issues"
+        },
+        {
+            "name" : "File Viewer",
+            "description": "A file viewer that can open files like csv, pdf and video, mp3 etc",
+            "author": "negative0",
+            "longDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "icon": "",
+            "repo": "https://github.com/negative0/rclone-file-viewer/",
+            "bugs": "https://github.com/negative0/rclone-file-viewer/issues"
         }
     ]
 }
