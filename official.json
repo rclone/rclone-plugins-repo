@@ -26,6 +26,15 @@
             "icon": "",
             "repo": "https://github.com/negative0/rclone-file-viewer/",
             "bugs": "https://github.com/negative0/rclone-file-viewer/issues"
+        },
+         {
+            "name" : "VSCode",
+            "description": "A ported version of VSCode which works in the browser with rclone",
+            "author": "negative0",
+            "longDescription": "Ported version of Microsoft VSCode",
+            "icon": "",
+            "repo": "https://github.com/negative0/rclone-vs-code/",
+            "bugs": "https://github.com/negative0/rclone-vs-code/issues"
         }
     ]
 }
